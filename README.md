@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleZadik
-- 🌱 I’m interested in building sustainable solutions & Web 3.0 projects
+- 🌱 Building Sustainable Solutions & Web 3.0 Projects
 
 <!---
 AleZadik/AleZadik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
